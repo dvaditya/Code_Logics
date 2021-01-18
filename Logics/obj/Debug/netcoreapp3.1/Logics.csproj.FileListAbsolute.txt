@@ -1,0 +1,13 @@
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\bin\Debug\netcoreapp3.1\Logics.exe
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\bin\Debug\netcoreapp3.1\Logics.deps.json
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\bin\Debug\netcoreapp3.1\Logics.runtimeconfig.json
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\bin\Debug\netcoreapp3.1\Logics.runtimeconfig.dev.json
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\bin\Debug\netcoreapp3.1\Logics.dll
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\bin\Debug\netcoreapp3.1\Logics.pdb
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.csprojAssemblyReference.cache
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.AssemblyInfoInputs.cache
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.AssemblyInfo.cs
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.csproj.CoreCompileInputs.cache
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.dll
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.pdb
+C:\Users\adevarkonda\Documents\Source\CodeLogics\Logics\obj\Debug\netcoreapp3.1\Logics.genruntimeconfig.cache
